@@ -42,3 +42,16 @@
     border: none;
     box-shadow: 5px 5px 10px lightgray;
 }
+#contact{
+    height: 300px;
+    
+}
+#contact{
+    color: gray;
+}
+#contact :hover{
+    color: blue;
+}
+.center{
+    text-align: center;
+}
